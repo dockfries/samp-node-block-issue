@@ -1,0 +1,13 @@
+.DS_Store
+node_modules
+dist
+components
+log.txt
+omp-server.exe
+omp-server
+omp-server.sh
+libnode.dll
+*.log
+*.dmp
+*.pdb
+plugins
